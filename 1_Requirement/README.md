@@ -1,59 +1,43 @@
 ﻿# Requirements
 
-#  Home Automation System
+#  EMPLOYEE MANAGMENT SYSTEM
 ## Introduction
-
-
- A home automation system *combines hardware and software via a wireless network to control your home electronics and appliances through one device which could be a smartphone, tablet, or a specific central automation control hub system. These devices can be controlled remotely even when you're not at home.
-___
-## SWOT ANALAYSIS
-
-**Strength:**
-	 Save time with automated task.
-
-**Weakness:**
-	 Reliable internet connection is crucial.
-         
-**Opportunities:**
-	This project is used to control the home appliances from anywhere.
-         
-**Threats:**
-	 Security issues, malware attack.
-___
-## 4W's and 1H
-
- **who:**
+ A Employee Management System In C Language makes easy to store records of each and every employees. The whole project is designed in ‘C’ language and different variables and strings have been used for the development of this project. This mini project is easy to operate and understand by the users.
+ ## SWOT ANALYSIS:
+ **Strengthes**:
+ * Easy to manage employee details.
+ * Mutiple users can acess the system.
  
- This project is useful for the people who looks for control home appliances and saving electricity.
-             
- **What:**
-  
-  This project increases power saving.
-             
-**When:**
-       
-  This project is used for handicap and aged people.
-         
- **How :**
+ **Weaknesses**:
+ * It is hard to maintain if their are more number of users.
+ * They system may crash if their are more number of users.
  
- This project works on a mobile phone.
+ **Opportunities**:
+ * It allows a big orgnanization to maintain the employees records without phyiscal records.
+ * It is easy to maintain employees personal details.
  
- ---
-## Detailed Requirements
+ **Threats**:
+ * If password is lost user will loose the records details.
+ * It can be easily hacked.
+ 
+ ## 4W's and 1'H
+**Who**:
 
-## High Level Requirements
+• All the organisation who has lot’s of employee in their different units and their different services.
 
-|Id|Description|Platform|
-|--|--| --|
-|HLR_01|Virtual Studio Code Platform|Software|
-|HLR_02|Windows 10 or Linux|Software|
-|HLR_03|Aurdino|Software|
----
+**What**:
 
+• Earlier Many Companies were inefficient due to prolonged time for entering N numbers of employee records manually. • This project gives the opportunity to enter all the required information and deploy into the system easily
 
-## Low Level Requirements
+**When**:
 
-|Id|Description|
-|--|--|
-|LLR_01|on|
-|LLR_02|off|
+• As the business of the organisation increases number of employees increases . • With the increases of employee their data management require.
+
+**Where**:
+
+• This problem is surfaced in all the organisation in the world.
+
+**How**:
+
+• This project takes in all the input values and yields out the management parameters.
+
