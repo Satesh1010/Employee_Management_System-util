@@ -1,14 +1,14 @@
 ﻿## EMPLOYEE MANAGEMENT SYSTEM
-A Employee Management System In C Language makes easy to store records of each and every employees. The whole project is designed in ‘C’ language and different variables and strings have been used for the development of this project. This  project is easy to operate and understand by the users.
+ In this project it is easy to store records of each and every employees.In this console application, you can do basic Employee Record tasks like adding the employee info, view the added employee, Modify the employees.
 
-## Folder Structure
+## FOLDER CONTENTS:
 
 |S.NO | TITLE|DESCRIPTION  |
 |--|--|--|
 |1|0_CERTIFICATES|SOLOLEARN,HACKEREARTH,GITHUB,CISCO LINUX|
-|2| 1_REQUIREMENTS | SWOT,4W1H,HIGH LEVEL AND LOW LEVEL |
+|2| 1_REQUIREMENTS | SWOT,4W1H,HIGH LEVEL AND LOW LEVEL REQUIREMENTS |
 |3|2_ARCHITECTURE|BEHAVIOUR AND STRUCTURE DIAGRAM|
-|4|3_IMPLEMENTATION|All the code is written here|
+|4|3_IMPLEMENTATION|ALL THE CODES ARE WRITTEN HERE|
 |5|4_TESTPLAN AND OUTPUT|HIGH LEVEL AND LOW LEVEL TEST PLANS|
 |6|5_REPORT|COMPILATION OUTPUT OF THE SOURCE CODE|
 
@@ -18,7 +18,7 @@ A Employee Management System In C Language makes easy to store records of each a
 | 99007661 | SATESH S |EMPLOYEE MANAGEMENT SYSTEM|
 
 ## Challenges Faced and How Was It overcome
-Updating and Deleting a file was overcame by using a temporary file to store data for some time
+Applying Files concepts was a quite challenging.
 
 ## Reference
 1. [Github](https://github.com/)
