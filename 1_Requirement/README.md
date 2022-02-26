@@ -10,7 +10,7 @@
  * It is easy to store records of each and every employees.
  
  **Weakness**:
- * They system may crash if their are more number of users. 
+ * It gives a servor error while generating mutiples number of employee details at a time. 
  
  **Opportunity**:
  * It allows a big orgnanization to maintain the employees records without phyiscal records.
@@ -25,6 +25,7 @@
 • All the organisation will be benefit who has lot’s of employee in their different units and their different services.
 
 **What**:
+
 • This project gives the opportunity to enter all the required information and deploy into the system easily.
 
 **When**:
