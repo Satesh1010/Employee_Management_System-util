@@ -2,7 +2,7 @@
 
 #  EMPLOYEE MANAGMENT SYSTEM
 ## Introduction
- A Employee Management System In C Language makes easy to store records of each and every employees. The whole project is designed in ‘C’ language and different variables and strings have been used for the development of this project. This mini project is easy to operate and understand by the users.
+ In this project it is easy to store records of each and every employees.In this console application, you can do basic Employee Record tasks like adding the employee info, view the added employee, Modify the employees.
  ## SWOT ANALYSIS:
  **Strengthes**:
  * Easy to manage employee details.
@@ -56,6 +56,12 @@
 |Id  |Description  |Status|
 |--|--|--|
 |LLR01  | The application will ask user tochoose between 1 to 5 |IMPLEMENTED|
+||Choices:||
+||1.Add Record||
+||2.List Record||
+||3.Modify Record||
+||4.Delete Record||
+||5.Exit||
 |LLR02|The application will ask user to enter info such as Enter name, Enter Salary, Enter Age|IMPLEMENTED|
 |LLR03|The application will show all details of employees|IMPLEMENTED|
 |LLR04|The application will ask user enter name (for modifying)|IMPLEMENTED|
