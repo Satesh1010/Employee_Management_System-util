@@ -3,43 +3,41 @@
 #  EMPLOYEE MANAGMENT SYSTEM
 ## Introduction
  In this project it is easy to store records of each and every employees.In this console application, you can do basic Employee Record tasks like adding the employee info, view the added employee, Modify the employees.
+ 
  ## SWOT ANALYSIS:
- **Strengthes**:
- * Easy to manage employee details.
- * Mutiple users can acess the system.
+ **Strength**:
+ * It is easy to maintain huge number employees details.
+ * It is easy to store records of each and every employees.
  
- **Weaknesses**:
- * It is hard to maintain if their are more number of users.
- * They system may crash if their are more number of users.
+ **Weakness**:
+ * They system may crash if their are more number of users. 
  
- **Opportunities**:
+ **Opportunity**:
  * It allows a big orgnanization to maintain the employees records without phyiscal records.
- * It is easy to maintain employees personal details.
+ * It allows user to do basic Employee Record tasks like adding the employee info, view the added employee, Modify the employees.
  
  **Threats**:
  * If password is lost user will loose the records details.
- * It can be easily hacked.
  
  ## 4W's and 1'H
 **Who**:
 
-• All the organisation who has lot’s of employee in their different units and their different services.
+• All the organisation will be benefit who has lot’s of employee in their different units and their different services.
 
 **What**:
-
-• Earlier Many Companies were inefficient due to prolonged time for entering N numbers of employee records manually. • This project gives the opportunity to enter all the required information and deploy into the system easily
+• This project gives the opportunity to enter all the required information and deploy into the system easily.
 
 **When**:
 
-• As the business of the organisation increases number of employees increases . • With the increases of employee their data management require.
+• When the business of the organisation increases number of employees increases then it is used.
 
 **Where**:
 
-• This problem is surfaced in all the organisation in the world.
+• This is used in all the business organisation in the world.
 
 **How**:
 
-• This project takes in all the input values and yields out the management parameters.
+• This project takes in all the input values from the user and yields out the Employee Management parameters .
 
 ## High level and and Low level Requirements
 ## HIGH LEVEL REQUIREMENTS
