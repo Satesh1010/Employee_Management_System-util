@@ -1,5 +1,5 @@
 ﻿## EMPLOYEE MANAGEMENT SYSTEM
-A Employee Management System In C Language makes easy to store records of each and every employees. The whole project is designed in ‘C’ language and different variables and strings have been used for the development of this project. This mini project is easy to operate and understand by the users.
+In this project it is easy to store records of each and every employees.In this project, you can do basic Employee Record tasks like adding the employee info, view the added employee, Modify the employees.
 
 ## Folder Structure
 
