@@ -1,5 +1,5 @@
 ﻿## EMPLOYEE MANAGEMENT SYSTEM
- In this project it is easy to store records of each and every employees.In this console application, you can do basic Employee Record tasks like adding the employee info, view the added employee, Modify the employees.
+ In this project it is easy to store records of each and every employees.In this project, you can do basic Employee Record tasks like adding the employee info, view the added employee, Modify the employees.
 
 ## FOLDER CONTENTS:
 
