@@ -16,9 +16,6 @@
  * It allows a big orgnanization to maintain the employees records without phyiscal records.
  * It allows user to do basic Employee Record tasks like adding the employee info, view the added employee, Modify the employees.
  
- **Threats**:
- * If password is lost user will loose the records details.
- 
  ## 4W's and 1'H
 **Who**:
 
