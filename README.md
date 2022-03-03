@@ -21,4 +21,4 @@
 Applying Files concepts was a quite challenging.
 
 ## Reference
-1.https://followtutorials.com/2011/08/mini-project-employee-record-system-using-c.html
+The code of this project is learnt and developed from https://followtutorials.com/2011/08/mini-project-employee-record-system-using-c.html
