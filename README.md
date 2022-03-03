@@ -21,5 +21,4 @@
 Applying Files concepts was a quite challenging.
 
 ## Reference
-1. [Github](https://github.com/)
-2. [Employee management system reference ](https://itsourcecode.com/fyp/employee-management-system-project-report-documentation-pdf/)
+1.[Employee management system reference ](https://itsourcecode.com/fyp/employee-management-system-project-report-documentation-pdf/)
