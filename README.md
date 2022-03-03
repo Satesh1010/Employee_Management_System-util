@@ -17,8 +17,4 @@
 |--|--|--|
 | 99007661 | SATESH S |EMPLOYEE MANAGEMENT SYSTEM|
 
-## Challenges Faced and How Was It overcome
-Applying Files concepts was a quite challenging.
 
-## Reference
-The code of this project is learnt and developed from https://followtutorials.com/2011/08/mini-project-employee-record-system-using-c.html
