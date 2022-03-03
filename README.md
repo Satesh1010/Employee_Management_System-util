@@ -21,5 +21,4 @@
 Applying Files concepts was a quite challenging.
 
 ## Reference
-1.[Employee management system reference ](https://itsourcecode.com/fyp/employee-management-system-project-report-documentation-pdf/)
-2.https://followtutorials.com/2011/08/mini-project-employee-record-system-using-c.html
+1.https://followtutorials.com/2011/08/mini-project-employee-record-system-using-c.html
