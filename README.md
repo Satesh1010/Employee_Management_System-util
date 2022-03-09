@@ -1,5 +1,12 @@
-﻿## EMPLOYEE MANAGEMENT SYSTEM
+﻿# EMPLOYEE MANAGEMENT SYSTEM
  In this project it is easy to store records of each and every employees.In this project, you can do basic Employee Record tasks like adding the employee info, view the added employee, Modify the employees.
+ 
+ ## Badges
+![](https://api.codiga.io/project/31796/score/svg)
+
+![](https://api.codiga.io/project/31796/status/svg)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/28223a293d4d463fbb6da6fa5dd13f0f)](https://www.codacy.com/gh/Satesh1010/M1_Employee_Management_System-util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Satesh1010/M1_Employee_Management_System-util&amp;utm_campaign=Badge_Grade)
 
 ## FOLDER CONTENTS:
 
